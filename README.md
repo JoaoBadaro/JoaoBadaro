@@ -1,16 +1,14 @@
-## Hi there 👋
+`Desenvolvedor Backend`
 
-<!--
-**JoaoBadaro/JoaoBadaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Análise e Desenvolvimento de Sistemas (3° Semestre) no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, apaixonado por tecnologia, esportes e videogames 🎮 
 
-Here are some ideas to get you started:
+Contate me: joaopedrosantosbadarosilva@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,git,cs,cpp)](https://skillicons.dev)
+
+### Linkedin
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/JoaoPedroBadaro)
+
+### Linguagens
+  ```🇧🇷 Português — Nativo``` · ```🇺🇸 Inglês — B2 ```
